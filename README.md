@@ -4,7 +4,7 @@
 
 ## Introducción
 
-En este laboratorio practicarás cómo usar la sentencia `SELECT` de MySQL, que será extremadamente útil en tu futuro trabajo como analista/científico/ingeniero de datos. **Usarás la base de datos `publications`**. Puedes encontrarla en la base de datos de Ironhack. Utiliza tu aplicación de gestión de bases de datos para consultar `publications`.
+En este laboratorio practicarás cómo usar la sentencia `SELECT` de MySQL, que será extremadamente útil en tu futuro trabajo como analista/científico/ingeniero de datos. **Usarás la base de datos `publications`**. Aquí está el [enlace para descargar el archivo de la base de datos](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/data-static/data/module-1/publications.sql.zip). Utiliza tu aplicación de gestión de bases de datos para consultar `publications`.
 
 Crearás un archivo `solutions.sql` en el directorio `your-code` para registrar tus soluciones a todos los desafíos.
 
